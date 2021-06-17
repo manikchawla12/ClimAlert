@@ -500,3 +500,44 @@ p.response {
   line-height: 1.8em;
   width: auto;
 }
+
+
+h1{
+    font-family: open sans;
+}
+header {
+    background-color:#009933;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    
+  }
+
+select{
+    text-align:center;
+}
+.Second{
+    border: solid;
+    border-color:  #009933;
+    border-radius:20px;
+    margin: 10px 10px 10px 10px;
+    padding: 30px;
+    background-color: #d1d6b8;
+}
+.Third{
+    border: solid;
+    border-color:  #009933;
+    border-radius:20px;
+    margin: 10px 10px 10px 10px;
+    padding: 30px;
+    background-color: #d1d6b8;
+}
+.Fourth{
+    border: solid;
+    border-color:  #009933;
+    border-radius:20px;
+    margin: 10px 10px 10px 10px;
+    padding: 30px;
+    background-color: #d1d6b8;
+}
