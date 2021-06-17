@@ -541,3 +541,53 @@ select{
     padding: 30px;
     background-color: #d1d6b8;
 }
+
+
+body{
+    margin: 30px;
+    align: center;
+}
+.btn1
+{
+    width:250px;
+    height:45px;
+    border:none;
+    outline:none;
+    box-shadow:0 3px 2px 0 #2c80a2;
+    color:#fff;
+    font-size:14px;
+    text-shadow:0 1px rgba(0,0,0,0.4);
+    background-color:#3fb8e8;
+    font-weight:700;
+    background-image:url(../images/1.png);
+    background-repeat:no-repeat;
+}
+.btn2
+{width:250px;
+    height:45px;
+    border:none;
+    outline:none;
+    box-shadow:0 3px 2px 0 #2c80a2;
+    color:#fff;
+    font-size:14px;
+    text-shadow:0 1px rgba(0,0,0,0.4);
+    background-color:#3fb8e8;
+    font-weight:700;
+    background-image:url(../images/1.png);
+    background-repeat:no-repeat;}
+
+    .btn3
+    {
+        width:250px;
+height:45px;
+border:none;
+outline:none;
+box-shadow:0 3px 2px 0 #2c80a2;
+color:#fff;
+font-size:14px;
+text-shadow:0 1px rgba(0,0,0,0.4);
+background-color:#3fb8e8;
+font-weight:700;
+background-image:url(../images/1.png);
+background-repeat:no-repeat;
+    }
