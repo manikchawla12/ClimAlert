@@ -1,8 +1,8 @@
-# Submission or project name
-ClimAlert by The Bug Slayers
+# Project name
+ClimAlert - The nature , considered seriously.
 ## Contents
 
-  - [Submission or project name](#submission-or-project-name)
+  - [Project name](#project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -37,7 +37,7 @@ It's inperative that learning and creating new things can help us to deal with t
 
 ## Demo video
 
-[![Watch the video] --------link-------
+[![Watch the video]](https://youtu.be/CosOnXi4NkU)
 
 ## Long description
 
@@ -46,7 +46,7 @@ It's inperative that learning and creating new things can help us to deal with t
 
 ## Project roadmap
 
-![Roadmap]
+![Roadmap](images/Roadmap.jpeg)
 
 ## Built with
 
@@ -58,8 +58,11 @@ It's inperative that learning and creating new things can help us to deal with t
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
-
-
+**Geetanshika Garg** [Geetanshika Garg](https://github.com/geetanshikagarg) ,
+**Drishti Sharma** [Drishti Sharma](https://github.com/Drishti78/Drishti78)  ,
+**Diksha Dahiya**[Diksha Dahiya](https://github.com/dahiya12)  ,
+**Manik Chawla**[Manik Chawla](https://github.com/manikchawla12) ,
+**Mayank Arora** [Mayank Arora](https://github.com/arora1mayank) 
 
 
 ## License
