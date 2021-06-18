@@ -37,7 +37,7 @@ ClimAlert by The Bug Slayers
 
 ## Long description
 
-[More detail is available here] (docs/description.txt)
+[More detail is available here](docs/description.txt)
 
 
 ## Project roadmap
