@@ -58,10 +58,11 @@ It's inperative that learning and creating new things can help us to deal with t
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
-**Mayank Arora** [Mayank Arora](https://github.com/arora1mayank)
-**Geetanshika Garg** [Geetanshika Garg](https://github.com/geetanshikagarg)
-**Drishti Sharma** [Drishti Sharma](https://github.com/Drishti78/Drishti78)  
-**Diksha Dahiya**[Diksha Dahiya]()
+**Mayank Arora** [Mayank Arora](https://github.com/arora1mayank) ,
+**Geetanshika Garg** [Geetanshika Garg](https://github.com/geetanshikagarg) ,
+**Drishti Sharma** [Drishti Sharma](https://github.com/Drishti78/Drishti78)  ,
+**Diksha Dahiya**[Diksha Dahiya]()  ,
+**Manik Chawla**[Manik Chawla](https://github.com/manikchawla12) .
 
 
 ## License
