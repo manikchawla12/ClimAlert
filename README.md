@@ -1,10 +1,10 @@
-# TheBugSlayers
+# Submission or project name
+ClimAlert by The Bug Slayers
+## Contents
+
 - [Submission or project name](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
-    - [What's the problem?](#whats-the-problem)
-    - [How can technology help?](#how-can-technology-help)
-    - [The idea](#the-idea)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
@@ -17,6 +17,8 @@
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
+
+## Short description
 
 Team The Bug Slayers started Climalert – A platform to tackle all drastic climate changes with innovative solutions.
  
