@@ -18,17 +18,21 @@ ClimAlert by The Bug Slayers
 ## Short description
 
 ### What's the problem?
-
-
+As we all know that nowdays our climate is being changing very drastically which leads to lot of loss to both wealth and mankind. 
+A long term change in the earth's. Overall temperature with massive and ramfic causes
+Climate changes causes lot of natural calamities such as 
+1 Earthquake 
+2 Floods 
+3 Tsunami 
+4 Global warming
 
 ### How can technology help?
-
-
-
+As science is progressing each day . It helps us to deal with the problems occurring due to climate change .
+We can use IOt , sensors to detect any natural calamities before its occurring and save mankind from great loss.
 
 ### The idea
 
-
+It's inperative that learning and creating new things can help us to deal with the problems arise due to continue climate change.Providing new technologies ,backed by IBM cloud ,will enable us to deal with climate change causes
 
 
 ## Demo video
