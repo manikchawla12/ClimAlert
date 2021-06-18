@@ -1,8 +1,8 @@
-# Submission or project name
-ClimAlert by The Bug Slayers
+# Project name
+ClimAlert - The nature , considered seriously.
 ## Contents
 
-  - [Submission or project name](#submission-or-project-name)
+  - [Project name](#project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
