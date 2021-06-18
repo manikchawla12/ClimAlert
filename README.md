@@ -61,7 +61,7 @@ It's inperative that learning and creating new things can help us to deal with t
 **Mayank Arora** [Mayank Arora](https://github.com/arora1mayank) ,
 **Geetanshika Garg** [Geetanshika Garg](https://github.com/geetanshikagarg) ,
 **Drishti Sharma** [Drishti Sharma](https://github.com/Drishti78/Drishti78)  ,
-**Diksha Dahiya**[Diksha Dahiya]()  ,
+**Diksha Dahiya**[Diksha Dahiya](https://github.com/dahiya12)  ,
 **Manik Chawla**[Manik Chawla](https://github.com/manikchawla12) .
 
 
