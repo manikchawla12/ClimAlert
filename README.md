@@ -76,4 +76,4 @@ Our platform will keep improving continuously to help people and to save the ear
 
 ## License
 
-This project is licensed under the Apache 2 License - see the [LICENSE]() file for details.
+This project is licensed under the Apache 2 License - see the [LICENSE](readme-license-hotwebsitetemplates.txt) file for details.
