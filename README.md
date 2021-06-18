@@ -46,7 +46,7 @@ It's inperative that learning and creating new things can help us to deal with t
 
 ## Project roadmap
 
-![Roadmap]
+![Roadmap](images\Roadmap.jpeg)
 
 ## Built with
 
