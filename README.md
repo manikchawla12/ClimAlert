@@ -37,7 +37,7 @@ It's inperative that learning and creating new things can help us to deal with t
 
 ## Demo video
 
-[![Watch the video] --------link-------
+[![Watch the video](https://youtu.be/CosOnXi4NkU)
 
 ## Long description
 
