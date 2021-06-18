@@ -2,21 +2,15 @@
 ClimAlert by The Bug Slayers
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
+  - [Submission or project name](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
   - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -51,3 +45,35 @@ To avoid destruction due to natural calamities and drastic climate change that c
 - and much more.
 
 Our platform will keep improving continuously to help people and to save the earth.
+
+
+## Demo video
+
+[![Watch the video] --------link-------
+
+## Long description
+
+[More detail is available here]
+
+
+## Project roadmap
+
+![Roadmap]
+
+## Built with
+
+- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+- [Maven](https://maven.apache.org/) - Dependency management
+- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Authors
+
+
+
+
+## License
+
+This project is licensed under the Apache 2 License - see the [LICENSE]() file for details.
